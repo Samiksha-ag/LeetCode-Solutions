@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 12 (Easy: 5, Medium: 4, Hard: 3)
+Solved: 13 (Easy: 6, Medium: 4, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Solved: 12 (Easy: 5, Medium: 4, Hard: 3)
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-13 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-09-13 |
 | 1047 | [Remove All Adjacent Duplicates In String](1047-remove-all-adjacent-duplicates-in-string/) | Easy | 2026-09-13 |
-| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-13 |
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets/) | Easy | 2026-09-13 |
+| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-13 |
+| 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
