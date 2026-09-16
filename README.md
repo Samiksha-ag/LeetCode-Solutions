@@ -1,10 +1,11 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 10, Medium: 5, Hard: 3)
+Solved: 19 (Easy: 11, Medium: 5, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 415 | [Add Strings](415-add-strings/) | Easy | 2026-09-16 |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 2026-09-16 |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-09-16 |
 | 1381 | [Design a Stack With Increment Operation](1381-design-a-stack-with-increment-operation/) | Medium | 2026-09-16 |
@@ -22,5 +23,5 @@ Solved: 18 (Easy: 10, Medium: 5, Hard: 3)
 | 1859 | [Sorting the Sentence](1859-sorting-the-sentence/) | Easy | 2026-09-16 |
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets/) | Easy | 2026-09-16 |
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-16 |
-| 415 | [Add Strings](415-add-strings/) | Easy | 2026-09-16 |
+| 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-09-16 |
 <!-- LEETHUB:TABLE:END -->
