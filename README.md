@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 22 (Easy: 12, Medium: 5, Hard: 5)
+Solved: 23 (Easy: 13, Medium: 5, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -27,4 +27,5 @@ Solved: 22 (Easy: 12, Medium: 5, Hard: 5)
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets/) | Easy | 2026-09-19 |
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-19 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-19 |
+| 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-09-19 |
 <!-- LEETHUB:TABLE:END -->
