@@ -1,11 +1,12 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 15, Medium: 5, Hard: 5)
+Solved: 26 (Easy: 16, Medium: 5, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 415 | [Add Strings](415-add-strings/) | Easy | 2026-09-20 |
+| 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal/) | Easy | 2026-09-20 |
 | 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal/) | Easy | 2026-09-20 |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 2026-09-20 |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-09-20 |
@@ -29,5 +30,5 @@ Solved: 25 (Easy: 15, Medium: 5, Hard: 5)
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-20 |
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-09-20 |
-| 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal/) | Easy | 2026-09-20 |
+| 145 | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
