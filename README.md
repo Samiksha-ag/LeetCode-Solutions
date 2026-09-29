@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 22, Medium: 6, Hard: 5)
+Solved: 34 (Easy: 23, Medium: 6, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Solved: 33 (Easy: 22, Medium: 6, Hard: 5)
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-09-29 |
 | 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-09-29 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-09-29 |
+| 747 | [Largest Number At Least Twice of Others](747-largest-number-at-least-twice-of-others/) | Easy | 2026-09-29 |
 | 84 | [Largest Rectangle in Histogram](84-largest-rectangle-in-histogram/) | Hard | 2026-09-29 |
 | 409 | [Longest Palindrome](409-longest-palindrome/) | Easy | 2026-09-29 |
 | 85 | [Maximal Rectangle](85-maximal-rectangle/) | Hard | 2026-09-29 |
@@ -37,5 +38,5 @@ Solved: 33 (Easy: 22, Medium: 6, Hard: 5)
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-09-29 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-29 |
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-09-29 |
-| 747 | [Largest Number At Least Twice of Others](747-largest-number-at-least-twice-of-others/) | Easy | 2026-09-29 |
+| 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
