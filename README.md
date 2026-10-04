@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 38 (Easy: 25, Medium: 8, Hard: 5)
+Solved: 39 (Easy: 26, Medium: 8, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Solved: 38 (Easy: 25, Medium: 8, Hard: 5)
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-04 |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2026-10-04 |
 | 1381 | [Design a Stack With Increment Operation](1381-design-a-stack-with-increment-operation/) | Medium | 2026-10-04 |
+| 1475 | [Final Prices With a Special Discount in a Shop](1475-final-prices-with-a-special-discount-in-a-shop/) | Easy | 2026-10-04 |
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-10-04 |
 | 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-10-04 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-04 |
@@ -42,5 +43,5 @@ Solved: 38 (Easy: 25, Medium: 8, Hard: 5)
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/) | Easy | 2026-10-04 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-04 |
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-10-04 |
-| 1475 | [Final Prices With a Special Discount in a Shop](1475-final-prices-with-a-special-discount-in-a-shop/) | Easy | 2026-10-04 |
+| 1389 | [Create Target Array in the Given Order](1389-create-target-array-in-the-given-order/) | Easy | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
