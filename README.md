@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 45 (Easy: 29, Medium: 11, Hard: 5)
+Solved: 46 (Easy: 29, Medium: 12, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -32,6 +32,7 @@ Solved: 45 (Easy: 29, Medium: 11, Hard: 5)
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-21 |
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-21 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-21 |
+| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-21 |
 | 995 | [Minimum Number of K Consecutive Bit Flips](995-minimum-number-of-k-consecutive-bit-flips/) | Hard | 2026-10-21 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-10-21 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 2026-10-21 |
@@ -49,5 +50,5 @@ Solved: 45 (Easy: 29, Medium: 11, Hard: 5)
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-10-21 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-21 |
 | 1486 | [XOR Operation in an Array](1486-xor-operation-in-an-array/) | Easy | 2026-10-21 |
-| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-21 |
+| 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
