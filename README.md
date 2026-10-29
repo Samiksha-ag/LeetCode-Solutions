@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 50 (Easy: 30, Medium: 15, Hard: 5)
+Solved: 51 (Easy: 31, Medium: 15, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -40,6 +40,7 @@ Solved: 50 (Easy: 30, Medium: 15, Hard: 5)
 | 995 | [Minimum Number of K Consecutive Bit Flips](995-minimum-number-of-k-consecutive-bit-flips/) | Hard | 2026-10-29 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-10-29 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 2026-10-29 |
+| 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/) | Medium | 2026-10-29 |
 | 1047 | [Remove All Adjacent Duplicates In String](1047-remove-all-adjacent-duplicates-in-string/) | Easy | 2026-10-29 |
 | 1299 | [Replace Elements with Greatest Element on Right Side](1299-replace-elements-with-greatest-element-on-right-side/) | Easy | 2026-10-29 |
 | 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-10-29 |
@@ -54,5 +55,5 @@ Solved: 50 (Easy: 30, Medium: 15, Hard: 5)
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii/) | Easy | 2026-10-29 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-29 |
 | 1486 | [XOR Operation in an Array](1486-xor-operation-in-an-array/) | Easy | 2026-10-29 |
-| 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/) | Medium | 2026-10-29 |
+| 645 | [Set Mismatch](645-set-mismatch/) | Easy | 2026-10-29 |
 <!-- LEETHUB:TABLE:END -->
